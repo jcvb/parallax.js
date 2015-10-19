@@ -1,0 +1,28 @@
+{
+  "name": "jcvb/parallaxjs",
+  "description": "parallax js efect ",
+  "keywords": [
+    "parallax",
+    "js",
+    "jquery"
+  ],
+  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "authors": [
+    {
+      "name": "JC Valerio",
+      "email": "jc.valerio.b@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jcvb/parallax.js"
+  },
+  "license": "MIT",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "replace": {
+    "jcvb/parallaxjs": "self.version"
+  }
+}
